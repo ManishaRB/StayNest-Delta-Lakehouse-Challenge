@@ -1,7 +1,6 @@
 # StayNest Delta Lakehouse Challenge
 
 **Delta Lake & Lakehouse Engineering**
-Codebasics · Data Engineering Bootcamp
 
 ## Overview
 
